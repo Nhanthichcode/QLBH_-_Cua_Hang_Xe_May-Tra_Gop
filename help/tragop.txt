@@ -1,0 +1,8 @@
+﻿
+▶ TRẢ GÓP
+	Các bước thực hiện:
+	1. Chọn hóa đơn cần trả góp.
+	2. Kiểm tra thông tin hóa đơn.
+	3. Chọn "Thanh toán" để thực hiện thanh toán.
+
+	Các hóa đơn đã hoàn tất sẽ được chuyển sang danh sách hóa đơn đã thanh toán.

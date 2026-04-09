@@ -1,0 +1,1411 @@
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.exe
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.dll.config
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.deps.json
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.runtimeconfig.json
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.pdb
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\RBush.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.csproj.AssemblyReference.cache
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_HangSanXuat.resources
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_HoaDon_ChiTiet.resources
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_SanPham.resources
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.csproj.GenerateResource.cache
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.AssemblyInfoInputs.cache
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.AssemblyInfo.cs
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.csproj.CoreCompileInputs.cache
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanH.6724466C.Up2Date
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\refint\DoAnBanHang_cuahangxemay.dll
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.pdb
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.genruntimeconfig.cache
+D:\Học Kì II  2024-2025\Lập Trình Quản Lý\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\ref\DoAnBanHang_cuahangxemay.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.csproj.AssemblyReference.cache
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.exe
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.dll.config
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.deps.json
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.runtimeconfig.json
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.pdb
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\RBush.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_HangSanXuat.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_HoaDon.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_HoaDon_ChiTiet.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_KhachHang.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_NhanVien.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_SanPham.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_ThanhToan.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_TraGop.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Properties.Resources.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.csproj.GenerateResource.cache
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.AssemblyInfoInputs.cache
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.AssemblyInfo.cs
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.csproj.CoreCompileInputs.cache
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanH.6724466C.Up2Date
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\refint\DoAnBanHang_cuahangxemay.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.pdb
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.genruntimeconfig.cache
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\ref\DoAnBanHang_cuahangxemay.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.exe
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Ico\1490201150-client_82317.ico
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Ico\bootloader_users_person_people_6080.ico
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Ico\jenkins_logo_icon_170552.ico
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.dll.config
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.deps.json
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.runtimeconfig.json
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.pdb
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\RBush.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ServiceModel.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\System.ServiceModel.Http.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\System.ServiceModel.Http.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\System.ServiceModel.Http.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\System.ServiceModel.Http.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\System.ServiceModel.Http.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\System.ServiceModel.Http.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\System.ServiceModel.Http.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\System.ServiceModel.Http.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\System.ServiceModel.Http.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\System.ServiceModel.Http.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\System.ServiceModel.Primitives.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\System.ServiceModel.Primitives.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\System.ServiceModel.Primitives.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.csproj.AssemblyReference.cache
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_DangNhap.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_HangSanXuat.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_HoaDon.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_HoaDon_ChiTiet.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_KhachHang.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_KhuVuc.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_MainTrangChu.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_NhanVien.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_SanPham.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_ThanhToan.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_TraGop.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.help.F_Help.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.NhatKyDangNhap.F_Log.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Properties.Resources.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Reports.Form_inHoaDon.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Reports.Form_Report_ThongKeDoanhThu.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Reports.Form_Report_thongKeSanPham.resources
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.csproj.GenerateResource.cache
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.AssemblyInfoInputs.cache
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.AssemblyInfo.cs
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.csproj.CoreCompileInputs.cache
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanH.6724466C.Up2Date
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\refint\DoAnBanHang_cuahangxemay.dll
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.pdb
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.genruntimeconfig.cache
+D:\Lập Trình Quản Lý\Đồ án 00\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\ref\DoAnBanHang_cuahangxemay.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.exe
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Ico\1490201150-client_82317.ico
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Ico\bootloader_users_person_people_6080.ico
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Ico\jenkins_logo_icon_170552.ico
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.dll.config
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.deps.json
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.runtimeconfig.json
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.pdb
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\RBush.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ServiceModel.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.csproj.AssemblyReference.cache
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_DangNhap.resources
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_HangSanXuat.resources
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_HoaDon.resources
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_HoaDon_ChiTiet.resources
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_KhachHang.resources
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_KhuVuc.resources
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_MainTrangChu.resources
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_NhanVien.resources
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_SanPham.resources
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_ThanhToan.resources
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_TraGop.resources
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.help.F_Help.resources
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.NhatKyDangNhap.F_Log.resources
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Properties.Resources.resources
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Reports.Form_inHoaDon.resources
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Reports.Form_Report_ThongKeDoanhThu.resources
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Reports.Form_Report_thongKeSanPham.resources
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.csproj.GenerateResource.cache
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.AssemblyInfoInputs.cache
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.AssemblyInfo.cs
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.csproj.CoreCompileInputs.cache
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanH.6724466C.Up2Date
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\refint\DoAnBanHang_cuahangxemay.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.pdb
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.genruntimeconfig.cache
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\ref\DoAnBanHang_cuahangxemay.dll
+D:\Test Đồ án\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\QRCoder.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.exe
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Ico\1490201150-client_82317.ico
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Ico\bootloader_users_person_people_6080.ico
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Ico\jenkins_logo_icon_170552.ico
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.deps.json
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.runtimeconfig.json
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.pdb
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\QRCoder.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\RBush.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.ServiceModel.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\de\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\es\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\it\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.csproj.AssemblyReference.cache
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_DangNhap.resources
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_HangSanXuat.resources
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_HoaDon.resources
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_HoaDon_ChiTiet.resources
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_KhachHang.resources
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_KhuVuc.resources
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_MainTrangChu.resources
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_NhanVien.resources
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_SanPham.resources
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_ThanhToan.resources
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_TraGop.resources
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.help.F_Help.resources
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.NhatKyDangNhap.F_Log.resources
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Properties.Resources.resources
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Reports.Form_inHoaDon.resources
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Reports.Form_Report_ThongKeDoanhThu.resources
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Reports.Form_Report_thongKeSanPham.resources
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.csproj.GenerateResource.cache
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.AssemblyInfoInputs.cache
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.AssemblyInfo.cs
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.csproj.CoreCompileInputs.cache
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanH.6724466C.Up2Date
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\refint\DoAnBanHang_cuahangxemay.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.pdb
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.genruntimeconfig.cache
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\obj\Debug\net8.0-windows\ref\DoAnBanHang_cuahangxemay.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Test Đồ án\Đồ án 123\Đồ án 00-traGop\Đồ án 00\DoAnBanHang_cuahangxemay\bin\Debug\net8.0-windows\appsettings.json
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\appsettings.json
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.exe
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Ico\1490201150-client_82317.ico
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Ico\bootloader_users_person_people_6080.ico
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Ico\jenkins_logo_icon_170552.ico
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.deps.json
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.runtimeconfig.json
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.pdb
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\QRCoder.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\RBush.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.ServiceModel.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\cs\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\de\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\es\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\fr\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\it\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ja\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ko\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pl\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ru\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\tr\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\de\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\es\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\it\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.csproj.AssemblyReference.cache
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_DangNhap.resources
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_HangSanXuat.resources
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_HoaDon.resources
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_HoaDon_ChiTiet.resources
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_KhachHang.resources
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_KhuVuc.resources
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_MainTrangChu.resources
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_NhanVien.resources
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_SanPham.resources
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_ThanhToan.resources
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Forms.F_TraGop.resources
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.help.F_Help.resources
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.NhatKyDangNhap.F_Log.resources
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Properties.Resources.resources
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Reports.Form_inHoaDon.resources
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Reports.Form_Report_ThongKeDoanhThu.resources
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.Reports.Form_Report_thongKeSanPham.resources
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.csproj.GenerateResource.cache
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.AssemblyInfoInputs.cache
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.AssemblyInfo.cs
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.csproj.CoreCompileInputs.cache
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanH.6724466C.Up2Date
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\refint\DoAnBanHang_cuahangxemay.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.pdb
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\DoAnBanHang_cuahangxemay.genruntimeconfig.cache
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\obj\Debug\net8.0-windows\ref\DoAnBanHang_cuahangxemay.dll
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Reports\Report_InDanhSachHoaDon_ChiTiet.rdlc
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Reports\Report_thongKeDoanhThu.rdlc
+D:\Test Đồ án\Đồ án 123\QLBH - cửa hàng bán xe máy trả góp\bin\Debug\net8.0-windows\Reports\Report_thongKeSanPham.rdlc

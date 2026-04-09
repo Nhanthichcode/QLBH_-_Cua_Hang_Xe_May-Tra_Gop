@@ -1,0 +1,16 @@
+﻿
+▶ THANH TOÁN
+
+	Trạng thái của hóa đơn sẽ là chưa thanh toán, nhân viên có thể thanh 
+	toán hóa đơn hoặc sửa theo các bước sau:
+		- chọn hóa đơn cần sửa trạng thái.
+		- kiểm tra thông tin hóa đơn.
+		- chọn nút Thanh toán.
+
+	1. Kiểm tra thông tin hóa đơn.
+		- Kiểm tra thông tin hóa đơn, nếu hóa đơn đã thanh toán thì không
+		  thể sửa trạng thái.
+	2. Xem hóa đơn.
+		- Nhân viên có thể xem hóa đơn để kiểm tra thông tin hóa đơn.
+
+	Có thể in biên lai sau khi hoàn tất.

@@ -1,0 +1,13 @@
+﻿
+▶ HƯỚNG DẪN ĐĂNG NHẬP
+
+	-Dành cho nhân viên và quản lý.
+		1. Nhập tên đăng nhập và mật khẩu chính xác.
+		2. Bấm nút "Đăng nhập" hoặc "Tick" để vào hệ thống.
+		3. Nếu quên mật khẩu, liên hệ quản trị viên để được cấp lại.
+		4. Đảm bảo thông tin được bảo mật, không chia sẻ tài khoản với người khác.
+	-Dành cho khách hàng.
+		Bấm nút "Thoát" hoặc đóng cửa sổ đănh nhập để vào hệ thống.
+
+
+	-Số điện thoại hỗ trợ: 0866.710.544 (Trí Nhàn)

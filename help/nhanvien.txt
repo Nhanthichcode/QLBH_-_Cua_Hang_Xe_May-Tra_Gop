@@ -1,0 +1,20 @@
+﻿
+▶ QUẢN LÝ NHÂN VIÊN
+
+	1. Thêm nhân viên:
+	   - Nhấn "Thêm".
+	   - Nhập thông tin cá nhân: tên, ngày sinh, vai trò, lương cơ bản,...
+	   - Bấm "Lưu".
+
+	2. Sửa hoặc xóa:
+	   - Chọn nhân viên → "Sửa" hoặc "Xóa".
+	   - Hệ thống có thể yêu cầu quyền Admin để thực hiện.
+
+	3. Phân quyền:
+	   - Chọn vai trò: Quản lý, Nhân viên bán hàng, v.v.
+
+	4. Xóa nhân viên:
+	   - Chọn nhân viên → "Xóa".
+	   - Xác nhận xóa.
+
+	Lưu ý: Luôn cập nhật trạng thái hoạt động của nhân viên.

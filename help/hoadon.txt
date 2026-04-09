@@ -1,0 +1,23 @@
+﻿
+▶ HÓA ĐƠN BÁN HÀNG
+
+	1. Xem chi tiết:
+	   - Chọn một hóa đơn từ danh sách chính và chọn sửa.
+	   - Cửa sổ hiện ra sẽ liệt kê tất cả các sản phẩm có trong hóa đơn đó.
+	
+	2. Tạo hóa đơn mới:
+		- Chọn thêm để mở ra 1 cửa sổ để chọn các thông tin cho hóa đơn.
+
+	3. In chi tiết:
+	   - Tại màn hình chính, nhấn nút "In" để xuất hóa đơn chi tiết ra giấy hoặc file PDF.
+
+	4. Tìm kiếm hóa đơn:
+	   - Nhập mã hóa đơn, tên khách hoặc ngày.
+
+	5. Xóa hóa đơn:
+	   - Chọn hóa đơn cần xóa và nhấn nút "Xóa" để xóa hóa đơn đó khỏi danh sách.
+	   - Các hóa đơn đã xóa sẽ không còn xuất hiện trong danh sách hóa đơn mà sẽ được 
+		  lưu trữ trong thùng rác.
+	   - Lưu ý: Không thể xóa hóa đơn đã thanh toán.
+
+	Ghi chú: Mỗi hóa đơn sẽ ghi nhận trạng thái thanh toán (đã thanh toán, nợ, trả góp).

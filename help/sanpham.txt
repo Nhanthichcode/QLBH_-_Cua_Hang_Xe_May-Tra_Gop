@@ -1,0 +1,17 @@
+﻿
+▶ QUẢN LÝ SẢN PHẨM
+
+	1. Thêm sản phẩm:
+	   - Nhấn nút "Thêm".
+	   - Nhập đầy đủ thông tin: tên, mã, giá, số lượng, mô tả.
+	   - Bấm "Lưu" để hoàn tất.
+	
+	2. Sửa sản phẩm:
+	   - Chọn sản phẩm trong danh sách.
+	   - Nhấn "Sửa", cập nhật thông tin rồi "Lưu".
+	
+	3. Xóa sản phẩm:
+	   - Chọn sản phẩm cần xóa.
+	   - Nhấn nút "Xóa", xác nhận để thực hiện.
+	
+	Lưu ý: Không thể xóa sản phẩm đang có trong hóa đơn.

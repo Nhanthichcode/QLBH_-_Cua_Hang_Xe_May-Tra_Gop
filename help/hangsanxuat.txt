@@ -1,0 +1,22 @@
+﻿
+▶ QUẢN LÝ HÃNG SẢN XUẤT
+
+	1. Thêm hãng mới:
+	   - Nhấn nút "Thêm".
+	   - Nhập tên hãng, ghi chú (nếu có).
+	   - Nhấn "Lưu" để lưu vào hệ thống.
+
+	2. Sửa hãng:
+	   - Chọn hãng sản xuất cần chỉnh sửa.
+	   - Nhấn "Sửa", cập nhật thông tin rồi "Lưu".
+
+	3. Xóa hãng:
+	   - Chọn hãng cần xóa.
+	   - Nhấn "Xóa", xác nhận để thực hiện.
+
+	⚠️ Lưu ý:
+	- Không thể xóa hãng sản xuất nếu đang được liên kết với sản phẩm.
+	- Mỗi sản phẩm nên gắn đúng với một hãng để quản lý đồng bộ.
+
+	Tìm kiếm:
+	- Có thể lọc theo tên bằng ô tìm kiếm.

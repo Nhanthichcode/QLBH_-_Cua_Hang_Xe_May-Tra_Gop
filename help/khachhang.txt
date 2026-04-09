@@ -1,0 +1,20 @@
+﻿
+▶ QUẢN LÝ KHÁCH HÀNG
+
+	1. Thêm khách hàng mới:
+	   - Nhấn nút "Thêm".
+	   - Nhập: họ tên, số điện thoại, địa chỉ, email (nếu có).
+	   - Bấm "Lưu".
+
+	2. Cập nhật thông tin:
+	   - Chọn khách hàng.
+	   - Nhấn "Sửa", chỉnh sửa rồi "Lưu".
+
+	3. Tìm kiếm:
+	   - Nhập tên hoặc SĐT vào ô tìm kiếm.
+	   - Danh sách sẽ lọc theo từ khóa nhập.
+
+	4. Xóa khách hàng:
+	   - Chọn khách hàng.
+	   - Nhấn "Xóa", xác nhận xóa.
+	Ghi chú: Khách hàng nên có thông tin rõ ràng để hỗ trợ hậu mãi.

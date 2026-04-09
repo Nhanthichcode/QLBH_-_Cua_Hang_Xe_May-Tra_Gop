@@ -1,0 +1,16 @@
+﻿
+▶ TRANG CHỦ
+
+Trang chủ hiển thị tổng quan hoạt động của hệ thống:
+- Số lượng sản phẩm, khách hàng, nhân viên.
+- Doanh thu tổng quát.
+- Các thông báo nội bộ (nếu có).
+- Truy cập nhanh đến các chức năng chính.
+
+Quyền truy cập:
+	- Quản trị viên : có toàn quyền với phần mềm.
+	- Nhân viên : có thể xem và quản lý việc thêm tất cả các sản phẩm, khách hàng, 
+		nhân viên và đơn hàng.
+	- Khách hàng : chỉ có thể xem được các sản phẩm và thông tin cá nhân.
+
+Bạn có thể điều hướng bằng menu hoặc các nút tắt trên giao diện.

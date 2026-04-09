@@ -1,0 +1,45 @@
+﻿
+	▶ HÓA ĐƠN CHI TIẾT
+
+	Chức năng này cho phép bạn xem chi tiết từng hóa đơn đã lập:
+		  - Sản phẩm đã bán
+		  - Số lượng, đơn giá
+		  - Thành tiền
+
+1. Cách tạo hóa đơn (cho khách hàng mới)
+		1. Chọn sản phẩm:
+		   - Tìm kiếm sản phẩm bằng cách nhập tên hoặc mã sản phẩm vào ô tìm kiếm.
+		   - Chọn sản phẩm từ danh sách hiển thị.
+		   - Nhập số lượng cần bán.
+		   - Nhấn nút "Thêm vào hóa đơn" để thêm sản phẩm vào danh sách.
+		2. Chọn hình thức thanh toán:
+		   - Tiền mặt
+		   - Chuyển khoản
+		   - Quẹt thẻ
+		   - Trả góp
+		3. Nhập thông tin khách hàng:
+		   - Nếu khách hàng đã có trong hệ thống, bạn chỉ cần chọn tên khách hàng từ danh sách.
+		   - Nếu khách hàng chưa có, bạn có thể thêm mới bằng cách nhấn nút "Thêm Khách Hàng" và nhập thông tin cần thiết.
+		4. Nhập thông tin hóa đơn:
+		   - Nhập các thông tin cần thiết như ghi chú.
+		5. Chọn nhân viên bán hàng:
+		   - Chọn nhân viên bán hàng từ danh sách.
+		6. Nhấn nút "Lưu" để hoàn tất việc tạo hóa đơn.
+		   - xem lại thông tin hóa đơn đã tạo trước khi lưu và xác nhận nếu tất cả đều đúng.
+
+2. Thêm khách hàng mới:
+   - Nếu hóa đơn chưa có khách hàng, bạn có thể thêm thông tin khách hàng mới bằng cách nhấn nút "Thêm Khách Hàng".
+   - Nhập đầy đủ thông tin như tên, địa chỉ, số điện thoại và email.
+   - Bấm "Lưu" để hoàn tất việc thêm khách hàng mới vào danh sách.
+
+3. Chỉnh sửa:
+   - Trong một số trường hợp (chưa thanh toán), bạn có thể cập nhật số lượng hoặc xóa sản phẩm khỏi hóa đơn.
+   - Sau khi sửa, bấm "Cập nhật" để lưu thay đổi.
+
+⚠️ Lưu ý:
+	- Không nên chỉnh sửa hóa đơn đã thanh toán để đảm bảo tính chính xác.
+	- Mọi thay đổi nên được ghi chú rõ ràng để đối chiếu khi cần.
+
+⚠️ hóa đơn trả góp sẽ không thể được chỉnh sửa.
+⚠️ hóa đơn đã thanh toán sẽ không thể được chỉnh.
+
